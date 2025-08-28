@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  border: 1px solid #000;
+  margin: 20px;
+  padding: 40px 20px 20px;
+  text-align: center;
+}
+button {
+  margin-bottom: 20px;
+}
+
+.listStyle {
+  margin-top: 5px;
+  padding: 5px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.cancellationLine {
+  text-decoration: line-through;
+}
